@@ -1,0 +1,4 @@
+add,mul,load,store,call,define,br i1,loops,basic_blocks,total_instructions,label
+5,0,22,17,9,9,4,0,36,159,2
+5,0,22,17,9,9,4,0,36,159,0
+5,0,22,17,9,9,4,0,36,159,2
